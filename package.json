@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1"
+  },
+  "name": "elvan",
+  "version": "1.0.0",
+  "description": "Ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basit,Dua,Usman",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
